@@ -1,0 +1,1 @@
+# gradle-plugin-on-github-packages-maven-repo
